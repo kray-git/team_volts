@@ -12,7 +12,7 @@ float Kp = 13.0;
 float Kd = 25.0;
 
 // Tunnel navigation error constants
-float Wd = 0.8;
+float Wd = 0.9;
 float Wp = 1.3;
 
 // Yellow DC motors constants if they have varying speed for the same PWM value
